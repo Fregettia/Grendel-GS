@@ -1,0 +1,9 @@
+plyfile
+tqdm
+psutil
+setuptools
+mkl
+pandas
+submodules/diff-gaussian-rasterization
+submodules/simple-knn
+submodules/gsplat
